@@ -1,5 +1,5 @@
 @main def printFib(): Unit =
-  println(fib(10)) // 34
+  println(fib(11)) // 34
 
 
 // Calculates the nth fibonacci value (0, 1, 1, 2, 3, 5, 8...)
